@@ -4,7 +4,7 @@
 # Description: Sends vCenter Alarm Push notifications using Alertzy.app
 # Reference: http://virtuallywired.io
 
-key="<You Alertzy Account Key" # Update this with your Alertzy Account Key
+key="b40i57zzzzzzwq9" # Update this with your own Alertzy Account Key
 title="vCenter Alarm"
 folder="Production"
 
